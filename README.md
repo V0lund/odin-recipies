@@ -1,1 +1,1 @@
-# odin-recipies
+HTML project. Nothing fancy just get used to work with HTML and GIT.
